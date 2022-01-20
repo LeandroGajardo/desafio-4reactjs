@@ -1,0 +1,23 @@
+.ItemCounter{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  
+
+}
+.boton1 {
+    margin: 10px;
+    padding: 10px;
+}
+.contador {
+    margin: 10px;
+    padding: 10px;
+
+}
+
+
+.boton2 {
+    margin: 10px;
+    padding: 10px;
+    
+}
